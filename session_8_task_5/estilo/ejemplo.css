@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    height: 150px;
+    background-color: rgb(0, 50, 70)
+
+}
+header ul li{
+    display: inline-block;
+    width: 30%;
+    box-sizing: border-box;
+    color: aliceblue;
+    background-color: blue;
+}
+
+#derech{
+    text-align: right;
+}
+
+#derech img{
+    height: 45px;
+    width: 45px;
+}
+
+article{
+   width: 650px;
+   background-color: none;
+   margin-right: auto;
+   margin-left: auto;
+}
+
+h1{
+    font-size: 40px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4{
+    font-weight: bold;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 20px;
+}
+
+h5{
+    font-size: medium;
+    font-weight: lighter;
+    text-align: center;
+}
+
+p{
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 20px;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.Importante{
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+.FirstLetter::first-letter{
+    font-size: 100px;
+    font-weight: bold;
+    line-height: 100px;
+    float: left;
+    padding-right: 15px;
+}
+
+ul li{
+    list-style-type: none;
+    padding-bottom: 25px;
+    padding-left: 45px;
+    padding-right: 45px;
+    line-height: 20px;
+}
+  
+img{
+width: 100%;
+}
