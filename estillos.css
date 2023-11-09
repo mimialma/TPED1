@@ -23,7 +23,8 @@ h1 {
     font-weight: bold;
     color:  rgb(226, 43, 198);
 
-    font-size: 40px;
+    font-size: 50px;
+    text-align: center;
 }
 
 #Projects {
