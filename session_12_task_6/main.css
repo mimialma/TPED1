@@ -6,7 +6,13 @@
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(164, 180, 187);
+}
+
+article {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
 }
 
 header {
@@ -14,30 +20,59 @@ header {
     justify-content: center;
     align-items: center;
 
-    background-color: rgb(220, 237, 245);
+    background-color: rgb(183, 198, 205);
 }
 
 h1 {
+    color: white;
     font-size: 300%;
     font-weight: lighter;
+    background-color: rgb(183, 198, 205);
 }
 
 h2 {
+    color: rgb(164, 180, 187);
+
     font-weight: 100;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+p {
+    color: rgb(164, 180, 187);
+
+}
+
 section {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding-bottom: 2%;
+}
+
+main {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     background-color: rgb(220, 237, 245);
+
+    width: 90%;
+    height: 100vh;
+}
+
+.A {
+    width: 33%;
+    height: auto;
+    padding: 1%;
 }
 
 img {
-    width: 33%;
+    width: 100%;
     height: auto;
 
     filter: grayscale(100%);
