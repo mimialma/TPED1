@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#superior{
+    height: 10vh;
+    background-color: darkgray;
+}
+
+#levo{
+    background-color: blueviolet;
+    width: 25%;
+    height: 70vh;
+}
+
+#sredina{
+    background-color: red;
+    width: 50%;
+    height: 70vh;
+}
+
+#desno{
+    background-color: yellow;
+    width: 25%;
+    height: 70vh;
+}
+
+#pie{
+    height: 6vh;
+    background-color: magenta;
+}
