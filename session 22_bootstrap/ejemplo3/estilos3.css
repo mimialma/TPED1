@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+#izq{
+    background-color: blueviolet;
+    height: 70vh;
+}
+
+#derecha{
+    background-color: beige;
+    height: 70vh;
+    padding: 0;
+    margin: 0;
+}
+
+#DentroSup{
+    height: 30vh;
+    background-color: blue;
+}
+
+#DentroInf{
+    height: 40vh;
+    background-color: brown;
+}
+
+#pie{
+    height: 10vh;
+    background-color: magenta;
+}
+

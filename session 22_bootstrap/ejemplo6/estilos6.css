@@ -3,6 +3,38 @@
   margin: 0;
   padding: 0;
 }
+
+#logo{
+    background-color: pink;
+    height: 20vh;
+
+}
+
+#navegacion{
+    background-color: yellow;
+    height: 75vh;
+
+}
+
+#contiendo{
+    background-color: red;
+    height: 75vh;
+}
+
+#pie{
+    background-color: magenta;
+    height: 5vh;
+}
+
+#publicidad{
+    background-color: blueviolet;
+    height: 100vh;
+}
+
+
+
+
+
 #primero{
     height: 10vh;
 background-color: darkgray;
