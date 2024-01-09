@@ -1,0 +1,51 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#superior{
+    height: 15vh;
+    background-color: darkgray;
+}
+
+
+#logo{
+    background-color: pink;
+    height: 15vh;
+}
+
+#menu{
+    background-color: blueviolet;
+    height: 5vh;
+}
+
+#Text1{
+    background-color: blue;
+    height: 35vh;
+}
+
+#Image1{
+    background-color: beige;
+    height: 35vh;
+}
+
+#derecha{
+    background-color: beige;
+    height: 70vh;
+}
+
+#title{
+    background-color: darkgray;
+}
+
+#gallery{
+    background-color: beige;
+    height: 70vh;
+}
+
+#pie{
+    height: 6vh;
+    background-color: magenta;
+    
+}
